@@ -1,7 +1,16 @@
 body {
 	min-width: 250px;
+	font-size: 14px;
 }
 
 #key_entered {
 	dispay: none;
+}
+
+.button {
+	padding: 10px;
+	background-color: rgb(255, 79, 18);
+	border: none;
+	color: white;
+	cursor: pointer;
 }
